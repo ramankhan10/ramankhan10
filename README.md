@@ -5,7 +5,7 @@
 - 🤝 I'm open to collaborating on interesting projects as a web Here are some ideas to get you started:
 
 ### Skills 
-
+<p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" alt="Angular icon" title="Angular" height="30px"/>&nbsp;
 
 <img src="https://cdn.cdnlogo.com/logos/r/44/rxjs.svg" alt="RxJS icon" title="RxJS" height="30px"/>&nbsp;
@@ -27,7 +27,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git icon" title="Git" height="30px"/>&nbsp;
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm icon" title="npm" height="30px"/>&nbsp;
-
 </p>
 
 ### Socials
