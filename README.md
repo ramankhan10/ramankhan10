@@ -16,7 +16,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 icon" title="CSS3" height="30px"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS icon" title="SASS/SCSS" height="30px"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap icon" title="Bootstrap" height="30px"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" title="tailwindcss" height="30px" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase" title="firebase" height="30px" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" title="Linux" height="30px" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" title="docker" height="30px"/>&nbsp;
