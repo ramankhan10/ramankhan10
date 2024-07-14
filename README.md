@@ -3,9 +3,7 @@
 ## Web Developer
 
 I am an Angular developer with one year of experience, I create dynamic web apps using HTML, CSS, JavaScript,TypeScript and Angular frameworks,I also know RESTful APIs, Git. 
-
 I love learning new technologies and improving my skills. I am currently learning Oracle database and PL/SQL fundamentals.
-
 I am a team player, a problem solver, and a fast learner.
 
 ### Skills 
