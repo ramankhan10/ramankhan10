@@ -2,9 +2,7 @@
 
 ## Angular | Oracle Pl/Sql Developer
 
-I am an Angular developer with one year of experience, I create dynamic web apps using HTML, CSS, JavaScript,TypeScript and Angular frameworks,I also know RESTful APIs, Git. 
-I love learning new technologies and improving my skills. I am currently learning Oracle database and PL/SQL fundamentals.
-I am a team player, a problem solver, and a fast learner.
+Detail-oriented Angular Developer with 1+ year of experience building responsive, high-performance web applications. Proficient in Angular, TypeScript, and RESTful API integration, with expertise in UI frameworks like Angular Material and Bootstrap. Skilled in using RxJS for state management and reactive programming, and proficient with Git for version control. Experienced in supporting enterprise databases with Oracle PL/SQL. A collaborative team player adept at delivering scalable and high-performance solutions in fast-paced environments.
 
 ### Skills 
 
