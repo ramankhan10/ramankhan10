@@ -1,5 +1,3 @@
-# My name is Raman Khan Ahmadi
-
 ## Angular | Oracle Pl/Sql Developer
 
 Detail-oriented Angular Developer with 1+ year of experience building responsive, high-performance web applications. Proficient in Angular, TypeScript, and RESTful API integration, with expertise in UI frameworks like Angular Material and Bootstrap. Skilled in using RxJS for state management and reactive programming, and proficient with Git for version control. Experienced in supporting enterprise databases with Oracle PL/SQL. A collaborative team player adept at delivering scalable and high-performance solutions in fast-paced environments.
